@@ -9,8 +9,8 @@
     "e2e": "jest --testPathPattern=./e2e/ -- runInBand",
     "test": "jest --testPathPattern=./src/"
   },
-  "repository": "git@github.com:MadamZelenkova/testing.git",
-  "author": "Zelenkova <e.valerevna.turova@yandex.ru>",
+  "repository": "",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.24.4",
